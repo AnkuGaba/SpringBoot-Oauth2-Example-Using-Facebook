@@ -1,4 +1,4 @@
-# SharvanSaini-SpingBoot-Oauth2-Using-FaceBook-Login
+# SpingBoot-Oauth2-Using-FaceBook-Login
 
 
 Take this service first we create clientId and clientScereteId and insert into application.yml file
