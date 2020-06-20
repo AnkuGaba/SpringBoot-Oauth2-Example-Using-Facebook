@@ -17,6 +17,4 @@ After that go to dashboard, scroll down and choose facebook login click on setup
 
 Now you can get the clientId and SecreteId put into application.yml file in springboot project
 
-For more refrenece visit- https://www.youtube.com/watch?v=kW9u2jNjEDw
-
 At last You hit the url- htttp://localhost/8902/ in any browser, you get that service
